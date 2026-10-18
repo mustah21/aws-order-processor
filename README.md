@@ -244,8 +244,8 @@ Covers `FakeShopApi` (catalog, idempotent orders, validation, seeded history), `
 
 | Name                   | Role                                |
 | ---------------------- | ----------------------------------- |
-| Su Kim                 | FrontEnd Developer (Android App UI) |
-| Mustafa Ahmad          | Backend Developer (Lambda)          |
+| Su Kim                 | FullStack Developer		       |
+| Mustafa Ahmad          | Backend Developer & Architecture    |
 | Kiavash Montazeri      | Database and Lambda                 |
 | Juan Valenzuela        | Architecture & coordination         |
 | Jiya Kanhirathan Poyil | Testing and Documentation           |
