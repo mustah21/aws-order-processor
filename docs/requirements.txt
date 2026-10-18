@@ -1,0 +1,6 @@
+# Python Backend
+moto
+boto3
+pymysql
+pytest
+pytest-mock

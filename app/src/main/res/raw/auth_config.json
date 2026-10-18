@@ -1,0 +1,15 @@
+{
+  "client_id": "1ad91f42-1b69-4fa7-8b35-ed1b9536e97f",
+  "authorization_user_agent": "DEFAULT",
+  "redirect_uri": "msauth://com.example.aws_g4/FyQpceTLNnOf7hGh6pyoMoyw5Gw=",
+  "account_mode": "SINGLE",
+  "broker_redirect_uri_registered": false,
+  "authorities": [
+    {
+      "type": "B2C",
+      "authority_url": "https://tichtestlogin.b2clogin.com/tfp/tichtestlogin.onmicrosoft.com/B2C_1_si_1/",
+      "tenant_id": "a713f106-387c-4c0a-ad01-f58e9dc785ab",
+      "default": true}
+
+  ]
+}
