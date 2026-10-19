@@ -2,9 +2,7 @@
 
 An event-driven, cloud-based order processing system built on AWS that automates the order workflow between wholesale food suppliers and their small business customers (cafes, restaurants, and catering companies). The system receives orders via API Gateway, queues them in SQS, processes them in Lambda, stores records in MariaDB (RDS), and pushes notifications through SNS .
 
-**Key guarantee:** Every order is either processed successfully or preserved in the DLQ. No data is lost.
-
----
+**Key guarantee:** Every order is either processed successfully or preserved in the DLQ. No data is lost. Although DLQ has a set expiry timer for data to be erased. Erased data is not saved anywhere, for the sake of this project.
 
 ## The Problem
 
