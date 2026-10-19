@@ -6,21 +6,6 @@ An event-driven, cloud-based order processing system built on AWS that automates
 
 ---
 
-## Table of Contents
-
-- [The Problem](#the-problem)
-- [Target Users](#target-users)
-- [Key Benefits](#key-benefits)
-- [Architecture](#architecture)
-- [AWS Services](#aws-services)
-- [Database Schema (MariaDB)](#database-schema-mariadb)
-- [Setup](#setup)
-- [Lambda Cnfiguration](#lambda-configuration)
-- [Failure & Retry Logic](#failure--retry-logic)
-- [Project Structure](#project-structure)
-- [Testing](#testing)
-- [Team](#team)
-
 ## The Problem
 
 Wholesale suppliers in the food service industry communicate with numerous small business customers daily. Restaurant managers, cafe owners, and catering operators need timely, accurate information from their suppliers — but repetitive inquiries, manual updates, and back-and-forth messages create delays, misunderstandings, and unnecessary administrative work on both sides.
